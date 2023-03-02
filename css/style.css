@@ -1,13 +1,12 @@
 
 footer {
+    width: 100%;
     background-color: #0081C9;
     color: #FFC93C;
     font-size: 1em;
     text-align: center;
     clear: both;
-}
-
-.container_footer {
-    display: inline-block;
-    align-items: center;
+    position: absolute;
+    bottom: 0;
+    align-items: center ;
 }
